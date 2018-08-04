@@ -114,7 +114,7 @@
   const defaulti18n = {
     night: 'Night',
     nights: 'Nights',
-    'day-names': ['Sun', 'Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat'],
+    'day-names': ['Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat', 'Sun'],
     'check-in': 'Check-in',
     'check-out': 'Check-out',
     'month-names': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
